@@ -3,7 +3,7 @@
 Langsung tempel perintah ini ke terminal lo:
 
 ```bash
-curl -sSL -o aztec-setup.sh https://raw.githubusercontent.com/moarunocounter/AZTEC/main/aztec-setup.sh && chmod +x aztec-setup.sh && ./aztec-setup.sh
+curl -sSL -o aztec-setup.sh https://raw.githubusercontent.com/moarunocounter/AZTEC/main/aztec.sh && chmod +x aztec.sh && ./aztec.sh
 ```
 
 
